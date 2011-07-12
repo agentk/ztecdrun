@@ -8,5 +8,10 @@ python ztecdrun.py /dev/ttyUSB1 disable
 
 
 Why would you use this?
-Most Telstra NextG USB dongle modems appear in Linux as a CD Drive first. Using this script this behaviour can be disabled and the modem can be used again as a normal USB modem.
+Most Telstra NextG USB dongle modems appear in Linux as a CD Drive first. Using
+this script this behaviour can be disabled and the modem can be used again as a
+normal USB modem.
 
+
+Please note that this is not needed for most USB dongles anymore when using
+Ubuntu 10.10+.
